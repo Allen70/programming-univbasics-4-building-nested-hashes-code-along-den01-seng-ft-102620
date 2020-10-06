@@ -30,7 +30,7 @@ def fourth_challenge
         :second_friend =>{
           name: "nurse",
           age: "44",
-          attitude "worried"
+          attitude: "worried"
         }
       ]
    }
