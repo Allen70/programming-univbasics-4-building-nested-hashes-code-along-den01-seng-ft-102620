@@ -28,8 +28,8 @@ def fourth_challenge
           attitude: "confused"
         }
         :second_friend =>{
-          name: "nurse"
-          age: "44"
+          name: "nurse",
+          age: "44",
           attitude "worried"
         }
       ]
